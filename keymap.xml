@@ -1,0 +1,9 @@
+<keymap>
+    <global>
+        <keyboard>
+            <f5>ReloadSkin()</f5>
+            <!-- Additional keybindings -->
+            <!-- ... -->
+        </keyboard>
+    </global>
+</keymap>
